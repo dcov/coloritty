@@ -1,0 +1,9 @@
+[package]
+name = "coloritty"
+version = "0.1.0"
+authors = ["Diego Covarrubias <dcov@pm.me>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.33.3"
+yaml-rust = "0.4.4"
